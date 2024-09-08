@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'ru.sbrf.transfer.docker.docker-lab' is invalid and this project uses 'ru.sbrf.transfer.docker.docker_lab' instead.
+* The original package name 'ru.sbrf.transfer.docker.docker-lab' is invalid and this project uses 'ru.sbrf.transfer.docker.lab' instead.
 
 # Getting Started
 

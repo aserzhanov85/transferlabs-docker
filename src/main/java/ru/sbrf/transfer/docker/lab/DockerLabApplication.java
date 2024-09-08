@@ -1,4 +1,4 @@
-package ru.sbrf.transfer.docker.docker_lab;
+package ru.sbrf.transfer.docker.lab;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

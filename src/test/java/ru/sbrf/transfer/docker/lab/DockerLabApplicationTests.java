@@ -1,4 +1,4 @@
-package ru.sbrf.transfer.docker.docker_lab;
+package ru.sbrf.transfer.docker.lab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
